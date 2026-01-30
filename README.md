@@ -2,9 +2,7 @@
 
 ## Deprecated. Please use https://github.com/qonversion/capacitor-plugin
 
-### NB: Code for iOS has not been done for this project yet.
-
-### NB: Been away for a year but updates and fixes will resume shortly
+### NB: Code for iOS has not been done for this project.
 
 Plugin to allow users in-app purchases and subscriptions via the use of [Qonversion](https://qonversion.io/)
 
